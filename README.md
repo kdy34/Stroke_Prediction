@@ -18,8 +18,6 @@ I evalueate the model with different types of methods and parameters.
 
 Our model achieves the following performance on :
 
-### [Image Classification on ImageNet](https://paperswithcode.com/sota/image-classification-on-imagenet)
-
 | Model name         | SVC | RFC |   LinReg    |   LogReg    |
 | ------------------ |-----|-----|-------------|-------------|
 | My awesome model   | 95% | 96% | 0.037 (MSE) | 0.046 (MSE) |
